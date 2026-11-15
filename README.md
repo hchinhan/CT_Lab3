@@ -153,6 +153,6 @@ During the development of this project, AI tools were used as a learning and cod
 
 - **Video Link:**
 
-YouTube: 
+YouTube: https://youtu.be/2krZrjLxmiY
 
-GG Drive: 
+GG Drive: https://drive.google.com/drive/folders/1yIOr_NWmzuy0bNUHWTpEU-MjSwbCTKK9
