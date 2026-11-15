@@ -134,7 +134,16 @@ Failure step values: `missing data`, `retrieval`, or `generation`.
 
 ## 8. AI Tools Used
 
-During the development of this project, AI tools were used as a learning and coding assistant for the following tasks, and all code, configuration, and outputs were reviewed manually:
+During the development of this project, AI tools were used as a learning and coding assistant, and all code, configuration, and outputs were reviewed manually.
+
+- **Tool & Environment:** `agy CLI` integrated in VS Code
+- **Models Used:** `Gemini 4 Hydrogen` and `Opus 5.5`
+- **Workflow:**
+  1. Provided the AI with all necessary course materials to read and understand the requirements.
+  2. Had the AI write a design guide based on those materials before writing code.
+  3. Had the AI implement the code following the design guide, followed by manual review.
+
+Specific tasks assisted include:
 
 1. **Application Structure and Implementation**
    - Assisted in structuring `app.py`, `firebase_client.py`, `rag.py`, and `config.py` based on the Lab 3–5 reference materials and assignment requirements.
