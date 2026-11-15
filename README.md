@@ -9,6 +9,7 @@ This project is a **Streamlit** web application for **Lumen Travel** that helps 
 - **Full Name:** Huỳnh Chí Nhân
 - **Student ID:** 25127440
 - **Chosen City:** Ho Chi Minh City (TP. Hồ Chí Minh), Vietnam
+- **GitHub Repository:** https://github.com/hchinhan/CT_Lab3
 
 ---
 
