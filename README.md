@@ -112,9 +112,11 @@ Create an account, sign in, and ask travel questions about Ho Chi Minh City. Res
 | 1 | Gợi ý các địa điểm có tuổi đời lâu đời đáng tham quan ở TP.HCM? | Paraphrase | G03 | G05, G01, G03, G02, G06 | Yes | |
 | 2 | Dinh Độc Lập mở cửa mấy giờ và giá vé bao nhiêu? | Answerable | G05 | G05, G07, G02, G10, G06 | Yes | |
 | 3 | Gợi ý quán cà phê bình dân hoặc tầm trung ở TP.HCM? | Answerable | G12, G13 | G12, G13, G09, G15, G11 | Yes | |
-| 4 | Cuối tuần đi với nhóm bạn thích vận động thể thao thì nên đi đâu? | Paraphrase | G10 | G10, G11, G06, G05, G09 | No | generation |
+| 4 | Cuối tuần đi với nhóm bạn thích vận động thể thao thì nên đi đâu? | Paraphrase | G10 | G10, G11, G06, G05, G09 | Yes | |
 | 5 | Tuyến Metro số 1 Bến Thành - Suối Tiên hiện giá vé bao nhiêu và chạy từ mấy giờ? | Not in guide | none | G04, G05, G07, G06, G11 | Yes | |
 | 6 | Sân bay Tân Sơn Nhất có xe buýt đêm chạy thẳng về Khu Sala không? | Not in guide | none | G11, G06, G05, G07, G04 | Yes | |
+| 7 | Thảo Cầm Viên Sài Gòn ở đâu và giá vé vào cổng bao nhiêu? | Answerable | G07 | G07, G05, G02, G08, G01 | Yes | |
+| 8 | Muốn đi ăn đêm sau 23h30 ở TP.HCM thì còn chỗ nào mở cửa? | Paraphrase | G14 | G11, G06, G15, G09, G04 | No | retrieval |
 
 Failure step values: `missing data`, `retrieval`, or `generation`.
 
